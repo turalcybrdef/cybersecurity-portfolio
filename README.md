@@ -1,37 +1,30 @@
-# Cybersecurity Portfolio (Labs + Projects)
+# Cybersecurity Portfolio
 
-This repository contains hands-on cybersecurity labs, scripts, and writeups that demonstrate practical skills in:
+This repository showcases hands-on cybersecurity projects, labs, and writeups demonstrating practical skills aligned with entry-level SOC Analyst, Cybersecurity Analyst, and Blue Team roles.
 
-- Log monitoring / detection
-- Network analysis
-- Vulnerability testing (ethical)
+## Skills Demonstrated
+- Log monitoring and detection
+- Network reconnaissance and analysis
 - Incident response fundamentals
 - Security automation (Python)
+- Documentation and reporting
 
-## Contents
-- [Projects](#projects)
-- [Labs & Writeups](#labs--writeups)
-- [Tools Used](#tools-used)
-- [Contact](#contact)
+## Repository Structure
+- **projects/** – End-to-end cybersecurity projects
+- **labs/** – Hands-on labs and walkthroughs (TryHackMe / HTB / PCAPs)
+- **resume-bullets/** – Resume-ready experience statements
 
-## Projects
-1. **Log Monitoring & Alerting (Python + SQLite)**  
-   - Description: Detects suspicious authentication events and logs them into a database.
-   - Skills: log parsing, detection logic, SQLite, alerting, secure configuration
-   - Link: `projects/log-monitor/`
+## Highlighted Projects
+- Log Monitoring & Alerting (Python + SQLite)
+- Network Reconnaissance & Reporting
+- SIEM-Style Incident Investigations
 
-2. **Network Recon Basics (Nmap + Reporting)**  
-   - Description: Structured recon workflow and reporting template.
-   - Skills: scanning, service enumeration, documentation
-   - Link: `projects/network-recon/`
+## Tools & Technologies
+Python, Linux, Windows Event Viewer, Wireshark, Nmap, Git, SQLite
 
-## Labs & Writeups
-- TryHackMe / HTB style writeups (sanitized, no spoilers if you prefer)
-- PCAP analysis notes
-- Blue team investigation walkthroughs
+## Legal Notice
+All work was performed in controlled lab environments or using intentionally vulnerable systems for educational purposes only.
 
-## Tools Used
-Python, Wireshark, Nmap, Linux, Windows Event Viewer, Sysmon (optional), Git
 
 ## Contact
 - LinkedIn: www.linkedin.com/in/tural-aghabalayev
