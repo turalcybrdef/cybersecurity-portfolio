@@ -1,0 +1,25 @@
+# Log Monitoring & Alerting Project
+
+## Objective
+Build a Python-based log monitoring solution that detects suspicious authentication activity and records events for investigation.
+
+## Scenario
+Simulated detection of brute-force and abnormal login behavior using system authentication logs.
+
+## Skills Demonstrated
+- Log parsing and normalization
+- Detection logic design
+- Event storage using SQLite
+- Alerting logic
+- Secure coding practices
+
+## Tools Used
+Python, SQLite, Linux/Windows logs
+
+## Outcome
+Successfully identified repeated failed authentication attempts and logged structured security events suitable for SOC review.
+
+## Evidence
+- Screenshots of script output
+- Sample sanitized logs
+- Detection logic explanation
